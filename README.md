@@ -27,14 +27,12 @@ Free med spa valuation estimator. Input revenue, location, years operating → g
 
 ## Philosophy
 
-**If it doesn't make money or attract clients, I don't build it.**
+I build tools that solve real problems in business valuation, deal analysis, and market intelligence. 
 
-Every tool serves a purpose:
-- Demonstrates expertise → attracts inbound leads
-- Saves time → lets me find more deals
-- Provides value → builds trust and audience
-
-Open-source where it builds reputation. Proprietary where it's the competitive edge.
+Every project is:
+- **Practical** — Solves a problem I've encountered
+- **Data-driven** — Built on real market data and industry expertise
+- **Accessible** — Free and open where possible, to help the entire community
 
 ---
 
